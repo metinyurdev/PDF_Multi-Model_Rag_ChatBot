@@ -69,7 +69,7 @@ streamlit run app.py
 ---
 
 ### 🖼 İmages:
-Then, open the provided **localhost** link in your browser and upload an image.
+
 
 [![PDF Multi-Model Rag Chat Bot](photos/example1.png)](photos/example1.png)
 
