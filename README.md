@@ -92,7 +92,7 @@ Feel free to fork, clone, and contribute to this project! Please open an issue o
 ## 👨‍💻 Author
 **Metin Yurduseven**  
 🔗 [GitHub](https://github.com/metinyurdev)  
-📧 metin.yurduseven@gmail.com
+📧 metin.yrdsvn@gmail.com
 
 ---
 
